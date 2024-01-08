@@ -42,11 +42,11 @@
 
 ### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#32](https://github.com/kd02109/Nextjs-Blog/pull/32) in [kd02109/Nextjs-Blog](https://github.com/kd02109/Nextjs-Blog)
-2. 💪 Opened PR [#32](https://github.com/kd02109/Nextjs-Blog/pull/32) in [kd02109/Nextjs-Blog](https://github.com/kd02109/Nextjs-Blog)
-3. 🎉 Merged PR [#22](https://github.com/kd02109/react-deep-dive/pull/22) in [kd02109/react-deep-dive](https://github.com/kd02109/react-deep-dive)
-4. 💪 Opened PR [#22](https://github.com/kd02109/react-deep-dive/pull/22) in [kd02109/react-deep-dive](https://github.com/kd02109/react-deep-dive)
-5. 🎉 Merged PR [#21](https://github.com/kd02109/react-deep-dive/pull/21) in [kd02109/react-deep-dive](https://github.com/kd02109/react-deep-dive)
+1. 🎉 Merged PR [#33](https://github.com/kd02109/Nextjs-Blog/pull/33) in [kd02109/Nextjs-Blog](https://github.com/kd02109/Nextjs-Blog)
+2. 💪 Opened PR [#33](https://github.com/kd02109/Nextjs-Blog/pull/33) in [kd02109/Nextjs-Blog](https://github.com/kd02109/Nextjs-Blog)
+3. 🎉 Merged PR [#32](https://github.com/kd02109/Nextjs-Blog/pull/32) in [kd02109/Nextjs-Blog](https://github.com/kd02109/Nextjs-Blog)
+4. 💪 Opened PR [#32](https://github.com/kd02109/Nextjs-Blog/pull/32) in [kd02109/Nextjs-Blog](https://github.com/kd02109/Nextjs-Blog)
+5. 🎉 Merged PR [#22](https://github.com/kd02109/react-deep-dive/pull/22) in [kd02109/react-deep-dive](https://github.com/kd02109/react-deep-dive)
 <!--END_SECTION:activity-->
 
 <br/>
