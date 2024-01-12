@@ -42,11 +42,11 @@
 
 ### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#24](https://github.com/kd02109/react-deep-dive/pull/24) in [kd02109/react-deep-dive](https://github.com/kd02109/react-deep-dive)
-2. 🎉 Merged PR [#78](https://github.com/frontend-article-study/frontend-article-study/pull/78) in [frontend-article-study/frontend-article-study](https://github.com/frontend-article-study/frontend-article-study)
-3. 💪 Opened PR [#78](https://github.com/frontend-article-study/frontend-article-study/pull/78) in [frontend-article-study/frontend-article-study](https://github.com/frontend-article-study/frontend-article-study)
-4. 🎉 Merged PR [#36](https://github.com/kd02109/Nextjs-Blog/pull/36) in [kd02109/Nextjs-Blog](https://github.com/kd02109/Nextjs-Blog)
-5. 💪 Opened PR [#36](https://github.com/kd02109/Nextjs-Blog/pull/36) in [kd02109/Nextjs-Blog](https://github.com/kd02109/Nextjs-Blog)
+1. 🎉 Merged PR [#24](https://github.com/kd02109/react-deep-dive/pull/24) in [kd02109/react-deep-dive](https://github.com/kd02109/react-deep-dive)
+2. 💪 Opened PR [#24](https://github.com/kd02109/react-deep-dive/pull/24) in [kd02109/react-deep-dive](https://github.com/kd02109/react-deep-dive)
+3. 🎉 Merged PR [#78](https://github.com/frontend-article-study/frontend-article-study/pull/78) in [frontend-article-study/frontend-article-study](https://github.com/frontend-article-study/frontend-article-study)
+4. 💪 Opened PR [#78](https://github.com/frontend-article-study/frontend-article-study/pull/78) in [frontend-article-study/frontend-article-study](https://github.com/frontend-article-study/frontend-article-study)
+5. 🎉 Merged PR [#36](https://github.com/kd02109/Nextjs-Blog/pull/36) in [kd02109/Nextjs-Blog](https://github.com/kd02109/Nextjs-Blog)
 <!--END_SECTION:activity-->
 
 <br/>
