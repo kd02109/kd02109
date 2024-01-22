@@ -42,11 +42,11 @@
 
 ### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#80](https://github.com/kd02109/mbtmi/pull/80) in [kd02109/mbtmi](https://github.com/kd02109/mbtmi)
-2. 💪 Opened PR [#80](https://github.com/kd02109/mbtmi/pull/80) in [kd02109/mbtmi](https://github.com/kd02109/mbtmi)
-3. 🎉 Merged PR [#79](https://github.com/kd02109/mbtmi/pull/79) in [kd02109/mbtmi](https://github.com/kd02109/mbtmi)
-4. 💪 Opened PR [#79](https://github.com/kd02109/mbtmi/pull/79) in [kd02109/mbtmi](https://github.com/kd02109/mbtmi)
-5. 🎉 Merged PR [#28](https://github.com/kd02109/react-deep-dive/pull/28) in [kd02109/react-deep-dive](https://github.com/kd02109/react-deep-dive)
+1. 🎉 Merged PR [#31](https://github.com/kd02109/react-deep-dive/pull/31) in [kd02109/react-deep-dive](https://github.com/kd02109/react-deep-dive)
+2. 🎉 Merged PR [#31](https://github.com/kd02109/react-deep-dive/pull/31) in [kd02109/react-deep-dive](https://github.com/kd02109/react-deep-dive)
+3. 🎉 Merged PR [#80](https://github.com/kd02109/mbtmi/pull/80) in [kd02109/mbtmi](https://github.com/kd02109/mbtmi)
+4. 💪 Opened PR [#80](https://github.com/kd02109/mbtmi/pull/80) in [kd02109/mbtmi](https://github.com/kd02109/mbtmi)
+5. 🎉 Merged PR [#79](https://github.com/kd02109/mbtmi/pull/79) in [kd02109/mbtmi](https://github.com/kd02109/mbtmi)
 <!--END_SECTION:activity-->
 
 <br/>
