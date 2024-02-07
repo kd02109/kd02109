@@ -42,11 +42,11 @@
 
 ### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#32](https://github.com/kd02109/react-deep-dive/pull/32) in [kd02109/react-deep-dive](https://github.com/kd02109/react-deep-dive)
-2. 💪 Opened PR [#32](https://github.com/kd02109/react-deep-dive/pull/32) in [kd02109/react-deep-dive](https://github.com/kd02109/react-deep-dive)
-3. 🎉 Merged PR [#81](https://github.com/kd02109/mbtmi/pull/81) in [kd02109/mbtmi](https://github.com/kd02109/mbtmi)
-4. 💪 Opened PR [#81](https://github.com/kd02109/mbtmi/pull/81) in [kd02109/mbtmi](https://github.com/kd02109/mbtmi)
-5. 🎉 Merged PR [#31](https://github.com/kd02109/react-deep-dive/pull/31) in [kd02109/react-deep-dive](https://github.com/kd02109/react-deep-dive)
+1. ❗ Opened issue [#23](https://github.com/ToyVallet/swifty-frontend/issues/23) in [ToyVallet/swifty-frontend](https://github.com/ToyVallet/swifty-frontend)
+2. 🎉 Merged PR [#32](https://github.com/kd02109/react-deep-dive/pull/32) in [kd02109/react-deep-dive](https://github.com/kd02109/react-deep-dive)
+3. 💪 Opened PR [#32](https://github.com/kd02109/react-deep-dive/pull/32) in [kd02109/react-deep-dive](https://github.com/kd02109/react-deep-dive)
+4. 🎉 Merged PR [#81](https://github.com/kd02109/mbtmi/pull/81) in [kd02109/mbtmi](https://github.com/kd02109/mbtmi)
+5. 💪 Opened PR [#81](https://github.com/kd02109/mbtmi/pull/81) in [kd02109/mbtmi](https://github.com/kd02109/mbtmi)
 <!--END_SECTION:activity-->
 
 <br/>
