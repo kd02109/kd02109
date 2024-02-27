@@ -42,11 +42,11 @@
 
 ### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#31](https://github.com/ToyVallet/swifty-frontend/pull/31#issuecomment-1963776758) in [ToyVallet/swifty-frontend](https://github.com/ToyVallet/swifty-frontend)
-2. 💪 Opened PR [#37](https://github.com/ToyVallet/swifty-frontend/pull/37) in [ToyVallet/swifty-frontend](https://github.com/ToyVallet/swifty-frontend)
-3. ❗ Opened issue [#36](https://github.com/ToyVallet/swifty-frontend/issues/36) in [ToyVallet/swifty-frontend](https://github.com/ToyVallet/swifty-frontend)
-4. ❗ Opened issue [#35](https://github.com/ToyVallet/swifty-frontend/issues/35) in [ToyVallet/swifty-frontend](https://github.com/ToyVallet/swifty-frontend)
-5. ❗ Opened issue [#34](https://github.com/ToyVallet/swifty-frontend/issues/34) in [ToyVallet/swifty-frontend](https://github.com/ToyVallet/swifty-frontend)
+1. 🎉 Merged PR [#82](https://github.com/kd02109/mbtmi/pull/82) in [kd02109/mbtmi](https://github.com/kd02109/mbtmi)
+2. 💪 Opened PR [#82](https://github.com/kd02109/mbtmi/pull/82) in [kd02109/mbtmi](https://github.com/kd02109/mbtmi)
+3. 🗣 Commented on [#31](https://github.com/ToyVallet/swifty-frontend/pull/31#issuecomment-1963776758) in [ToyVallet/swifty-frontend](https://github.com/ToyVallet/swifty-frontend)
+4. 💪 Opened PR [#37](https://github.com/ToyVallet/swifty-frontend/pull/37) in [ToyVallet/swifty-frontend](https://github.com/ToyVallet/swifty-frontend)
+5. ❗ Opened issue [#36](https://github.com/ToyVallet/swifty-frontend/issues/36) in [ToyVallet/swifty-frontend](https://github.com/ToyVallet/swifty-frontend)
 <!--END_SECTION:activity-->
 
 <br/>
