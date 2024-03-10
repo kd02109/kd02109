@@ -42,11 +42,11 @@
 
 ### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#38](https://github.com/kd02109/Nextjs-Blog/pull/38) in [kd02109/Nextjs-Blog](https://github.com/kd02109/Nextjs-Blog)
-2. 💪 Opened PR [#38](https://github.com/kd02109/Nextjs-Blog/pull/38) in [kd02109/Nextjs-Blog](https://github.com/kd02109/Nextjs-Blog)
-3. 💪 Opened PR [#49](https://github.com/ToyVallet/swifty-frontend/pull/49) in [ToyVallet/swifty-frontend](https://github.com/ToyVallet/swifty-frontend)
-4. 🔒 Closed issue [#36](https://github.com/ToyVallet/swifty-frontend/issues/36) in [ToyVallet/swifty-frontend](https://github.com/ToyVallet/swifty-frontend)
-5. 🎉 Merged PR [#43](https://github.com/ToyVallet/swifty-frontend/pull/43) in [ToyVallet/swifty-frontend](https://github.com/ToyVallet/swifty-frontend)
+1. 🎉 Merged PR [#39](https://github.com/kd02109/Nextjs-Blog/pull/39) in [kd02109/Nextjs-Blog](https://github.com/kd02109/Nextjs-Blog)
+2. 💪 Opened PR [#39](https://github.com/kd02109/Nextjs-Blog/pull/39) in [kd02109/Nextjs-Blog](https://github.com/kd02109/Nextjs-Blog)
+3. 🎉 Merged PR [#38](https://github.com/kd02109/Nextjs-Blog/pull/38) in [kd02109/Nextjs-Blog](https://github.com/kd02109/Nextjs-Blog)
+4. 💪 Opened PR [#38](https://github.com/kd02109/Nextjs-Blog/pull/38) in [kd02109/Nextjs-Blog](https://github.com/kd02109/Nextjs-Blog)
+5. 💪 Opened PR [#49](https://github.com/ToyVallet/swifty-frontend/pull/49) in [ToyVallet/swifty-frontend](https://github.com/ToyVallet/swifty-frontend)
 <!--END_SECTION:activity-->
 
 <br/>
