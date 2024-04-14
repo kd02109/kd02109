@@ -42,11 +42,11 @@
 
 ### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/ToyVallet/feasta-frontend-template/pull/1) in [ToyVallet/feasta-frontend-template](https://github.com/ToyVallet/feasta-frontend-template)
-2. 💪 Opened PR [#64](https://github.com/ToyVallet/swifty-frontend/pull/64) in [ToyVallet/swifty-frontend](https://github.com/ToyVallet/swifty-frontend)
-3. 💪 Opened PR [#63](https://github.com/ToyVallet/swifty-frontend/pull/63) in [ToyVallet/swifty-frontend](https://github.com/ToyVallet/swifty-frontend)
-4. 💪 Opened PR [#58](https://github.com/ToyVallet/swifty-frontend/pull/58) in [ToyVallet/swifty-frontend](https://github.com/ToyVallet/swifty-frontend)
-5. 🎉 Merged PR [#52](https://github.com/ToyVallet/swifty-frontend/pull/52) in [ToyVallet/swifty-frontend](https://github.com/ToyVallet/swifty-frontend)
+1. 🎉 Merged PR [#4](https://github.com/ToyVallet/feasta-frontend-template/pull/4) in [ToyVallet/feasta-frontend-template](https://github.com/ToyVallet/feasta-frontend-template)
+2. 💪 Opened PR [#3](https://github.com/ToyVallet/feasta-frontend-template/pull/3) in [ToyVallet/feasta-frontend-template](https://github.com/ToyVallet/feasta-frontend-template)
+3. 💪 Opened PR [#1](https://github.com/ToyVallet/feasta-frontend-template/pull/1) in [ToyVallet/feasta-frontend-template](https://github.com/ToyVallet/feasta-frontend-template)
+4. 💪 Opened PR [#64](https://github.com/ToyVallet/swifty-frontend/pull/64) in [ToyVallet/swifty-frontend](https://github.com/ToyVallet/swifty-frontend)
+5. 💪 Opened PR [#63](https://github.com/ToyVallet/swifty-frontend/pull/63) in [ToyVallet/swifty-frontend](https://github.com/ToyVallet/swifty-frontend)
 <!--END_SECTION:activity-->
 
 <br/>
