@@ -42,11 +42,11 @@
 
 ### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/ToyVallet/feasta-frontend-template/pull/8) in [ToyVallet/feasta-frontend-template](https://github.com/ToyVallet/feasta-frontend-template)
-2. 💪 Opened PR [#8](https://github.com/ToyVallet/feasta-frontend-template/pull/8) in [ToyVallet/feasta-frontend-template](https://github.com/ToyVallet/feasta-frontend-template)
-3. 🎉 Merged PR [#7](https://github.com/ToyVallet/feasta-frontend-template/pull/7) in [ToyVallet/feasta-frontend-template](https://github.com/ToyVallet/feasta-frontend-template)
-4. 💪 Opened PR [#7](https://github.com/ToyVallet/feasta-frontend-template/pull/7) in [ToyVallet/feasta-frontend-template](https://github.com/ToyVallet/feasta-frontend-template)
-5. 🎉 Merged PR [#6](https://github.com/ToyVallet/feasta-frontend-template/pull/6) in [ToyVallet/feasta-frontend-template](https://github.com/ToyVallet/feasta-frontend-template)
+1. 🎉 Merged PR [#43](https://github.com/kd02109/Nextjs-Blog/pull/43) in [kd02109/Nextjs-Blog](https://github.com/kd02109/Nextjs-Blog)
+2. 💪 Opened PR [#43](https://github.com/kd02109/Nextjs-Blog/pull/43) in [kd02109/Nextjs-Blog](https://github.com/kd02109/Nextjs-Blog)
+3. 🎉 Merged PR [#8](https://github.com/ToyVallet/feasta-frontend-template/pull/8) in [ToyVallet/feasta-frontend-template](https://github.com/ToyVallet/feasta-frontend-template)
+4. 💪 Opened PR [#8](https://github.com/ToyVallet/feasta-frontend-template/pull/8) in [ToyVallet/feasta-frontend-template](https://github.com/ToyVallet/feasta-frontend-template)
+5. 🎉 Merged PR [#7](https://github.com/ToyVallet/feasta-frontend-template/pull/7) in [ToyVallet/feasta-frontend-template](https://github.com/ToyVallet/feasta-frontend-template)
 <!--END_SECTION:activity-->
 
 <br/>
