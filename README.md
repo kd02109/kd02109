@@ -42,11 +42,11 @@
 
 ### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#77](https://github.com/ho991217/danfesta2024/pull/77) in [ho991217/danfesta2024](https://github.com/ho991217/danfesta2024)
-2. 💪 Opened PR [#75](https://github.com/ho991217/danfesta2024/pull/75) in [ho991217/danfesta2024](https://github.com/ho991217/danfesta2024)
-3. ❌ Closed PR [#49](https://github.com/ho991217/danfesta2024/pull/49) in [ho991217/danfesta2024](https://github.com/ho991217/danfesta2024)
-4. 💪 Opened PR [#49](https://github.com/ho991217/danfesta2024/pull/49) in [ho991217/danfesta2024](https://github.com/ho991217/danfesta2024)
-5. 💪 Opened PR [#39](https://github.com/ho991217/danfesta2024/pull/39) in [ho991217/danfesta2024](https://github.com/ho991217/danfesta2024)
+1. 💪 Opened PR [#2](https://github.com/ToyVallet/swifty-fe/pull/2) in [ToyVallet/swifty-fe](https://github.com/ToyVallet/swifty-fe)
+2. 💪 Opened PR [#77](https://github.com/ho991217/danfesta2024/pull/77) in [ho991217/danfesta2024](https://github.com/ho991217/danfesta2024)
+3. 💪 Opened PR [#75](https://github.com/ho991217/danfesta2024/pull/75) in [ho991217/danfesta2024](https://github.com/ho991217/danfesta2024)
+4. ❌ Closed PR [#49](https://github.com/ho991217/danfesta2024/pull/49) in [ho991217/danfesta2024](https://github.com/ho991217/danfesta2024)
+5. 💪 Opened PR [#49](https://github.com/ho991217/danfesta2024/pull/49) in [ho991217/danfesta2024](https://github.com/ho991217/danfesta2024)
 <!--END_SECTION:activity-->
 
 <br/>
