@@ -42,11 +42,11 @@
 
 ### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19](https://github.com/ToyVallet/swifty-fe/issues/19#issuecomment-2118807602) in [ToyVallet/swifty-fe](https://github.com/ToyVallet/swifty-fe)
-2. 🔒 Closed issue [#19](https://github.com/ToyVallet/swifty-fe/issues/19) in [ToyVallet/swifty-fe](https://github.com/ToyVallet/swifty-fe)
-3. 🎉 Merged PR [#24](https://github.com/ToyVallet/swifty-fe/pull/24) in [ToyVallet/swifty-fe](https://github.com/ToyVallet/swifty-fe)
-4. 💪 Opened PR [#24](https://github.com/ToyVallet/swifty-fe/pull/24) in [ToyVallet/swifty-fe](https://github.com/ToyVallet/swifty-fe)
-5. 💪 Opened PR [#16](https://github.com/ToyVallet/swifty-fe/pull/16) in [ToyVallet/swifty-fe](https://github.com/ToyVallet/swifty-fe)
+1. 💪 Opened PR [#38](https://github.com/ToyVallet/swifty-fe/pull/38) in [ToyVallet/swifty-fe](https://github.com/ToyVallet/swifty-fe)
+2. 🗣 Commented on [#19](https://github.com/ToyVallet/swifty-fe/issues/19#issuecomment-2118807602) in [ToyVallet/swifty-fe](https://github.com/ToyVallet/swifty-fe)
+3. 🔒 Closed issue [#19](https://github.com/ToyVallet/swifty-fe/issues/19) in [ToyVallet/swifty-fe](https://github.com/ToyVallet/swifty-fe)
+4. 🎉 Merged PR [#24](https://github.com/ToyVallet/swifty-fe/pull/24) in [ToyVallet/swifty-fe](https://github.com/ToyVallet/swifty-fe)
+5. 💪 Opened PR [#24](https://github.com/ToyVallet/swifty-fe/pull/24) in [ToyVallet/swifty-fe](https://github.com/ToyVallet/swifty-fe)
 <!--END_SECTION:activity-->
 
 <br/>
