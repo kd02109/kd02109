@@ -42,11 +42,11 @@
 
 ### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/ToyVallet/swifty-root/pull/7) in [ToyVallet/swifty-root](https://github.com/ToyVallet/swifty-root)
-2. 🎉 Merged PR [#6](https://github.com/ToyVallet/swifty-root/pull/6) in [ToyVallet/swifty-root](https://github.com/ToyVallet/swifty-root)
-3. 💪 Opened PR [#6](https://github.com/ToyVallet/swifty-root/pull/6) in [ToyVallet/swifty-root](https://github.com/ToyVallet/swifty-root)
-4. 💪 Opened PR [#4](https://github.com/ToyVallet/swifty-root/pull/4) in [ToyVallet/swifty-root](https://github.com/ToyVallet/swifty-root)
-5. 🎉 Merged PR [#3](https://github.com/ToyVallet/swifty-root/pull/3) in [ToyVallet/swifty-root](https://github.com/ToyVallet/swifty-root)
+1. 💪 Opened PR [#9](https://github.com/ToyVallet/swifty-root/pull/9) in [ToyVallet/swifty-root](https://github.com/ToyVallet/swifty-root)
+2. 💪 Opened PR [#7](https://github.com/ToyVallet/swifty-root/pull/7) in [ToyVallet/swifty-root](https://github.com/ToyVallet/swifty-root)
+3. 🎉 Merged PR [#6](https://github.com/ToyVallet/swifty-root/pull/6) in [ToyVallet/swifty-root](https://github.com/ToyVallet/swifty-root)
+4. 💪 Opened PR [#6](https://github.com/ToyVallet/swifty-root/pull/6) in [ToyVallet/swifty-root](https://github.com/ToyVallet/swifty-root)
+5. 💪 Opened PR [#4](https://github.com/ToyVallet/swifty-root/pull/4) in [ToyVallet/swifty-root](https://github.com/ToyVallet/swifty-root)
 <!--END_SECTION:activity-->
 
 <br/>
