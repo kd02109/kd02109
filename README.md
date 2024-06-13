@@ -42,11 +42,11 @@
 
 ### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#4](https://github.com/ToyVallet/swifty-frontend/issues/4) in [ToyVallet/swifty-frontend](https://github.com/ToyVallet/swifty-frontend)
-2. 💪 Opened PR [#18](https://github.com/ToyVallet/swifty-frontend/pull/18) in [ToyVallet/swifty-frontend](https://github.com/ToyVallet/swifty-frontend)
-3. 🎉 Merged PR [#1](https://github.com/kd02109/react-native-delivery/pull/1) in [kd02109/react-native-delivery](https://github.com/kd02109/react-native-delivery)
-4. 💪 Opened PR [#1](https://github.com/kd02109/react-native-delivery/pull/1) in [kd02109/react-native-delivery](https://github.com/kd02109/react-native-delivery)
-5. 🎉 Merged PR [#9](https://github.com/ToyVallet/swifty-frontend/pull/9) in [ToyVallet/swifty-frontend](https://github.com/ToyVallet/swifty-frontend)
+1. 🗣 Commented on [#18](https://github.com/ToyVallet/swifty-frontend/pull/18#issuecomment-2164167395) in [ToyVallet/swifty-frontend](https://github.com/ToyVallet/swifty-frontend)
+2. 🔒 Closed issue [#4](https://github.com/ToyVallet/swifty-frontend/issues/4) in [ToyVallet/swifty-frontend](https://github.com/ToyVallet/swifty-frontend)
+3. 💪 Opened PR [#18](https://github.com/ToyVallet/swifty-frontend/pull/18) in [ToyVallet/swifty-frontend](https://github.com/ToyVallet/swifty-frontend)
+4. 🎉 Merged PR [#1](https://github.com/kd02109/react-native-delivery/pull/1) in [kd02109/react-native-delivery](https://github.com/kd02109/react-native-delivery)
+5. 💪 Opened PR [#1](https://github.com/kd02109/react-native-delivery/pull/1) in [kd02109/react-native-delivery](https://github.com/kd02109/react-native-delivery)
 <!--END_SECTION:activity-->
 
 <br/>
