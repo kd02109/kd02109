@@ -42,11 +42,11 @@
 
 ### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/ToyVallet/swifty-frontend/pull/10#issuecomment-2178006827) in [ToyVallet/swifty-frontend](https://github.com/ToyVallet/swifty-frontend)
-2. 🎉 Merged PR [#46](https://github.com/kd02109/Nextjs-Blog/pull/46) in [kd02109/Nextjs-Blog](https://github.com/kd02109/Nextjs-Blog)
-3. 💪 Opened PR [#46](https://github.com/kd02109/Nextjs-Blog/pull/46) in [kd02109/Nextjs-Blog](https://github.com/kd02109/Nextjs-Blog)
-4. 💪 Opened PR [#21](https://github.com/ToyVallet/swifty-frontend/pull/21) in [ToyVallet/swifty-frontend](https://github.com/ToyVallet/swifty-frontend)
-5. 💪 Opened PR [#20](https://github.com/ToyVallet/swifty-frontend/pull/20) in [ToyVallet/swifty-frontend](https://github.com/ToyVallet/swifty-frontend)
+1. ❗ Opened issue [#24](https://github.com/ToyVallet/swifty-frontend/issues/24) in [ToyVallet/swifty-frontend](https://github.com/ToyVallet/swifty-frontend)
+2. ❗ Opened issue [#23](https://github.com/ToyVallet/swifty-frontend/issues/23) in [ToyVallet/swifty-frontend](https://github.com/ToyVallet/swifty-frontend)
+3. 🗣 Commented on [#10](https://github.com/ToyVallet/swifty-frontend/pull/10#issuecomment-2178006827) in [ToyVallet/swifty-frontend](https://github.com/ToyVallet/swifty-frontend)
+4. 🎉 Merged PR [#46](https://github.com/kd02109/Nextjs-Blog/pull/46) in [kd02109/Nextjs-Blog](https://github.com/kd02109/Nextjs-Blog)
+5. 💪 Opened PR [#46](https://github.com/kd02109/Nextjs-Blog/pull/46) in [kd02109/Nextjs-Blog](https://github.com/kd02109/Nextjs-Blog)
 <!--END_SECTION:activity-->
 
 <br/>
