@@ -42,11 +42,11 @@
 
 ### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#35](https://github.com/ToyVallet/swifty-frontend/issues/35) in [ToyVallet/swifty-frontend](https://github.com/ToyVallet/swifty-frontend)
-2. 💪 Opened PR [#34](https://github.com/ToyVallet/swifty-frontend/pull/34) in [ToyVallet/swifty-frontend](https://github.com/ToyVallet/swifty-frontend)
-3. 🔓 Reopened issue [#28](https://github.com/ToyVallet/swifty-frontend/issues/28) in [ToyVallet/swifty-frontend](https://github.com/ToyVallet/swifty-frontend)
-4. 🔒 Closed issue [#29](https://github.com/ToyVallet/swifty-frontend/issues/29) in [ToyVallet/swifty-frontend](https://github.com/ToyVallet/swifty-frontend)
-5. 💪 Opened PR [#33](https://github.com/ToyVallet/swifty-frontend/pull/33) in [ToyVallet/swifty-frontend](https://github.com/ToyVallet/swifty-frontend)
+1. 🔒 Closed issue [#35](https://github.com/ToyVallet/swifty-frontend/issues/35) in [ToyVallet/swifty-frontend](https://github.com/ToyVallet/swifty-frontend)
+2. 🎉 Merged PR [#36](https://github.com/ToyVallet/swifty-frontend/pull/36) in [ToyVallet/swifty-frontend](https://github.com/ToyVallet/swifty-frontend)
+3. 💪 Opened PR [#36](https://github.com/ToyVallet/swifty-frontend/pull/36) in [ToyVallet/swifty-frontend](https://github.com/ToyVallet/swifty-frontend)
+4. ❗ Opened issue [#35](https://github.com/ToyVallet/swifty-frontend/issues/35) in [ToyVallet/swifty-frontend](https://github.com/ToyVallet/swifty-frontend)
+5. 💪 Opened PR [#34](https://github.com/ToyVallet/swifty-frontend/pull/34) in [ToyVallet/swifty-frontend](https://github.com/ToyVallet/swifty-frontend)
 <!--END_SECTION:activity-->
 
 <br/>
