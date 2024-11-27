@@ -42,11 +42,11 @@
 
 ### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#33](https://github.com/Game-Link/game-link-fe/pull/33) in [Game-Link/game-link-fe](https://github.com/Game-Link/game-link-fe)
-2. 💪 Opened PR [#33](https://github.com/Game-Link/game-link-fe/pull/33) in [Game-Link/game-link-fe](https://github.com/Game-Link/game-link-fe)
-3. 🎉 Merged PR [#32](https://github.com/Game-Link/game-link-fe/pull/32) in [Game-Link/game-link-fe](https://github.com/Game-Link/game-link-fe)
-4. 💪 Opened PR [#32](https://github.com/Game-Link/game-link-fe/pull/32) in [Game-Link/game-link-fe](https://github.com/Game-Link/game-link-fe)
-5. 🎉 Merged PR [#31](https://github.com/Game-Link/game-link-fe/pull/31) in [Game-Link/game-link-fe](https://github.com/Game-Link/game-link-fe)
+1. 🎉 Merged PR [#34](https://github.com/Game-Link/game-link-fe/pull/34) in [Game-Link/game-link-fe](https://github.com/Game-Link/game-link-fe)
+2. 💪 Opened PR [#34](https://github.com/Game-Link/game-link-fe/pull/34) in [Game-Link/game-link-fe](https://github.com/Game-Link/game-link-fe)
+3. 🎉 Merged PR [#33](https://github.com/Game-Link/game-link-fe/pull/33) in [Game-Link/game-link-fe](https://github.com/Game-Link/game-link-fe)
+4. 💪 Opened PR [#33](https://github.com/Game-Link/game-link-fe/pull/33) in [Game-Link/game-link-fe](https://github.com/Game-Link/game-link-fe)
+5. 🎉 Merged PR [#32](https://github.com/Game-Link/game-link-fe/pull/32) in [Game-Link/game-link-fe](https://github.com/Game-Link/game-link-fe)
 <!--END_SECTION:activity-->
 
 <br/>
