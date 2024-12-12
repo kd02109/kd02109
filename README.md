@@ -53,7 +53,7 @@
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C194%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C196%20hrs-blue)
 
 **I'm an Early 🐤** 
 
@@ -71,15 +71,15 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               3 hrs 40 mins       █████████████████████████   100.00 % 
+TypeScript               4 hrs 52 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 40 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 52 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      3 hrs 40 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 11/12/2024 15:28:41 UTC
+ Last Updated on 12/12/2024 15:30:11 UTC
 <!--END_SECTION:waka-->
