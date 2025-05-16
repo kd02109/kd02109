@@ -42,11 +42,11 @@
 
 ### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#49](https://github.com/Game-Link/game-link-fe/pull/49) in [Game-Link/game-link-fe](https://github.com/Game-Link/game-link-fe)
-2. 💪 Opened PR [#49](https://github.com/Game-Link/game-link-fe/pull/49) in [Game-Link/game-link-fe](https://github.com/Game-Link/game-link-fe)
-3. 🎉 Merged PR [#2](https://github.com/kd02109/-kd-react-component-library/pull/2) in [kd02109/-kd-react-component-library](https://github.com/kd02109/-kd-react-component-library)
-4. 💪 Opened PR [#2](https://github.com/kd02109/-kd-react-component-library/pull/2) in [kd02109/-kd-react-component-library](https://github.com/kd02109/-kd-react-component-library)
-5. 🎉 Merged PR [#42](https://github.com/Game-Link/game-link-fe/pull/42) in [Game-Link/game-link-fe](https://github.com/Game-Link/game-link-fe)
+1. 🎉 Merged PR [#50](https://github.com/Game-Link/game-link-fe/pull/50) in [Game-Link/game-link-fe](https://github.com/Game-Link/game-link-fe)
+2. 💪 Opened PR [#50](https://github.com/Game-Link/game-link-fe/pull/50) in [Game-Link/game-link-fe](https://github.com/Game-Link/game-link-fe)
+3. 🎉 Merged PR [#49](https://github.com/Game-Link/game-link-fe/pull/49) in [Game-Link/game-link-fe](https://github.com/Game-Link/game-link-fe)
+4. 💪 Opened PR [#49](https://github.com/Game-Link/game-link-fe/pull/49) in [Game-Link/game-link-fe](https://github.com/Game-Link/game-link-fe)
+5. 🎉 Merged PR [#2](https://github.com/kd02109/-kd-react-component-library/pull/2) in [kd02109/-kd-react-component-library](https://github.com/kd02109/-kd-react-component-library)
 <!--END_SECTION:activity-->
 
 <br/>
