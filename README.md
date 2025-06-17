@@ -42,9 +42,9 @@
 
 ### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#50](https://github.com/Game-Link/game-link-fe/pull/50) in [Game-Link/game-link-fe](https://github.com/Game-Link/game-link-fe)
-2. 💪 Opened PR [#50](https://github.com/Game-Link/game-link-fe/pull/50) in [Game-Link/game-link-fe](https://github.com/Game-Link/game-link-fe)
-3. 🎉 Merged PR [#49](https://github.com/Game-Link/game-link-fe/pull/49) in [Game-Link/game-link-fe](https://github.com/Game-Link/game-link-fe)
+1. 💪 Opened PR [#32](https://github.com/Yaksok-Promise/yaksok-web/pull/32) in [Yaksok-Promise/yaksok-web](https://github.com/Yaksok-Promise/yaksok-web)
+2. 🎉 Merged PR [#31](https://github.com/Yaksok-Promise/yaksok-web/pull/31) in [Yaksok-Promise/yaksok-web](https://github.com/Yaksok-Promise/yaksok-web)
+3. 💪 Opened PR [#31](https://github.com/Yaksok-Promise/yaksok-web/pull/31) in [Yaksok-Promise/yaksok-web](https://github.com/Yaksok-Promise/yaksok-web)
 4. 💪 Opened PR [#49](https://github.com/Game-Link/game-link-fe/pull/49) in [Game-Link/game-link-fe](https://github.com/Game-Link/game-link-fe)
 5. 🎉 Merged PR [#2](https://github.com/kd02109/-kd-react-component-library/pull/2) in [kd02109/-kd-react-component-library](https://github.com/kd02109/-kd-react-component-library)
 <!--END_SECTION:activity-->
