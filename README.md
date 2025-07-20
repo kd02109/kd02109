@@ -42,11 +42,11 @@
 
 ### Recent Activity :zap:
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#56](https://github.com/Yaksok-Promise/yaksok-web/pull/56) in [Yaksok-Promise/yaksok-web](https://github.com/Yaksok-Promise/yaksok-web)
-2. 💪 Opened PR [#56](https://github.com/Yaksok-Promise/yaksok-web/pull/56) in [Yaksok-Promise/yaksok-web](https://github.com/Yaksok-Promise/yaksok-web)
-3. 🎉 Merged PR [#55](https://github.com/Yaksok-Promise/yaksok-web/pull/55) in [Yaksok-Promise/yaksok-web](https://github.com/Yaksok-Promise/yaksok-web)
-4. 💪 Opened PR [#55](https://github.com/Yaksok-Promise/yaksok-web/pull/55) in [Yaksok-Promise/yaksok-web](https://github.com/Yaksok-Promise/yaksok-web)
-5. 🎉 Merged PR [#54](https://github.com/Yaksok-Promise/yaksok-web/pull/54) in [Yaksok-Promise/yaksok-web](https://github.com/Yaksok-Promise/yaksok-web)
+1. 💪 Opened PR [#58](https://github.com/Yaksok-Promise/yaksok-web/pull/58) in [Yaksok-Promise/yaksok-web](https://github.com/Yaksok-Promise/yaksok-web)
+2. ❗ Opened issue [#57](https://github.com/Yaksok-Promise/yaksok-web/issues/57) in [Yaksok-Promise/yaksok-web](https://github.com/Yaksok-Promise/yaksok-web)
+3. 🎉 Merged PR [#56](https://github.com/Yaksok-Promise/yaksok-web/pull/56) in [Yaksok-Promise/yaksok-web](https://github.com/Yaksok-Promise/yaksok-web)
+4. 💪 Opened PR [#56](https://github.com/Yaksok-Promise/yaksok-web/pull/56) in [Yaksok-Promise/yaksok-web](https://github.com/Yaksok-Promise/yaksok-web)
+5. 🎉 Merged PR [#55](https://github.com/Yaksok-Promise/yaksok-web/pull/55) in [Yaksok-Promise/yaksok-web](https://github.com/Yaksok-Promise/yaksok-web)
 <!--END_SECTION:activity-->
 
 <br/>
