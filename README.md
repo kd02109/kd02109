@@ -71,16 +71,15 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               2 hrs 28 mins       █████████████████████████   99.63 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Cursor                   2 hrs 28 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      2 hrs 28 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 11/03/2026 15:57:16 UTC
+ Last Updated on 12/03/2026 16:08:04 UTC
 <!--END_SECTION:waka-->
