@@ -53,14 +53,14 @@
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C800%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C805%20hrs%208%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1144 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
-🌆 Daytime                6852 commits        ███████████████░░░░░░░░░░   59.95 % 
-🌃 Evening                3330 commits        ███████░░░░░░░░░░░░░░░░░░   29.14 % 
+🌞 Morning                1145 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
+🌆 Daytime                6878 commits        ███████████████░░░░░░░░░░   60.00 % 
+🌃 Evening                3337 commits        ███████░░░░░░░░░░░░░░░░░░   29.11 % 
 🌙 Night                  103 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 ```
 
@@ -71,19 +71,20 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               22 hrs 26 mins      ████████████████████░░░░░   80.47 % 
-Other                    3 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
-JSON                     59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
-JavaScript               51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
-YAML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+TypeScript               25 hrs 46 mins      ████████████████████░░░░░   80.24 % 
+Other                    3 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
+JSON                     1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
+JavaScript               55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+YAML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 🔥 Editors: 
-Cursor                   27 hrs 53 mins      █████████████████████████   100.00 % 
+Cursor                   31 hrs 50 mins      █████████████████████████   99.14 % 
+Unknown Editor           16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
 
 💻 Operating System: 
-Mac                      27 hrs 53 mins      █████████████████████████   100.00 % 
+Mac                      32 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 14/04/2026 16:16:57 UTC
+ Last Updated on 15/04/2026 16:13:18 UTC
 <!--END_SECTION:waka-->
