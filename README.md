@@ -53,14 +53,14 @@
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C828%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C832%20hrs%2020%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1160 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-🌆 Daytime                6989 commits        ███████████████░░░░░░░░░░   60.22 % 
-🌃 Evening                3353 commits        ███████░░░░░░░░░░░░░░░░░░   28.89 % 
+🌞 Morning                1160 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
+🌆 Daytime                7005 commits        ███████████████░░░░░░░░░░   60.28 % 
+🌃 Evening                3353 commits        ███████░░░░░░░░░░░░░░░░░░   28.85 % 
 🌙 Night                  103 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 ```
 
@@ -71,20 +71,20 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               10 hrs 41 mins      ██████████████████████░░░   87.65 % 
-JavaScript               40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
-Other                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
-JSON                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
-HTML                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+TypeScript               8 hrs 30 mins       ███████████████████░░░░░░   77.11 % 
+JavaScript               49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
+Other                    42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
+JSON                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+HTML                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
 
 🔥 Editors: 
-Cursor                   10 hrs 41 mins      ██████████████████████░░░   87.63 % 
-Unknown Editor           1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+Cursor                   10 hrs 24 mins      ████████████████████████░   94.26 % 
+Unknown Editor           38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
 
 💻 Operating System: 
-Mac                      12 hrs 11 mins      █████████████████████████   100.00 % 
+Mac                      11 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 24/04/2026 16:11:51 UTC
+ Last Updated on 25/04/2026 15:47:53 UTC
 <!--END_SECTION:waka-->
