@@ -53,14 +53,14 @@
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C847%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C847%20hrs%2052%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1131 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
-🌆 Daytime                6853 commits        ███████████████░░░░░░░░░░   60.38 % 
-🌃 Evening                3267 commits        ███████░░░░░░░░░░░░░░░░░░   28.78 % 
+🌞 Morning                1130 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
+🌆 Daytime                6870 commits        ███████████████░░░░░░░░░░   60.34 % 
+🌃 Evening                3286 commits        ███████░░░░░░░░░░░░░░░░░░   28.86 % 
 🌙 Night                  99 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
 ```
 
@@ -71,19 +71,19 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               12 hrs 11 mins      ██████████████████████░░░   86.01 % 
-Other                    34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
-JSON                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
-JavaScript               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
-CSS                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+TypeScript               12 hrs 14 mins      ██████████████████████░░░   86.06 % 
+Other                    34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+JSON                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+JavaScript               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+CSS                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 
 🔥 Editors: 
-Cursor                   14 hrs 10 mins      █████████████████████████   100.00 % 
+Cursor                   14 hrs 13 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      14 hrs 10 mins      █████████████████████████   100.00 % 
+Mac                      14 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 04/05/2026 16:54:55 UTC
+ Last Updated on 05/05/2026 16:35:11 UTC
 <!--END_SECTION:waka-->
