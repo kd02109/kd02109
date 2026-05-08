@@ -58,9 +58,9 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1130 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
-🌆 Daytime                6870 commits        ███████████████░░░░░░░░░░   60.34 % 
-🌃 Evening                3287 commits        ███████░░░░░░░░░░░░░░░░░░   28.87 % 
+🌞 Morning                1130 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
+🌆 Daytime                6885 commits        ███████████████░░░░░░░░░░   60.34 % 
+🌃 Evening                3297 commits        ███████░░░░░░░░░░░░░░░░░░   28.89 % 
 🌙 Night                  99 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
 ```
 
@@ -71,19 +71,19 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               9 hrs 16 mins       ██████████████████████░░░   90.00 % 
-Other                    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
-JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
-YAML                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
-Docker                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+TypeScript               3 hrs 31 mins       █████████████████████░░░░   84.94 % 
+JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+YAML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Docker                   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+Bash                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
 
 🔥 Editors: 
-Cursor                   10 hrs 18 mins      █████████████████████████   100.00 % 
+Cursor                   4 hrs 9 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      10 hrs 18 mins      █████████████████████████   100.00 % 
+Mac                      4 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 07/05/2026 16:59:05 UTC
+ Last Updated on 08/05/2026 16:22:18 UTC
 <!--END_SECTION:waka-->
