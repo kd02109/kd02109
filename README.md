@@ -53,35 +53,6 @@
 <br/>
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                1269 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
-🌆 Daytime                7633 commits        ███████████████░░░░░░░░░░   60.88 % 
-🌃 Evening                3533 commits        ███████░░░░░░░░░░░░░░░░░░   28.18 % 
-🌙 Night                  103 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-TypeScript               6 hrs 21 mins       ███████████░░░░░░░░░░░░░░   45.93 % 
-Markdown                 2 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
-JSON                     1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
-JavaScript               1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
-Other                    31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-
-🔥 Editors: 
-Cursor                   13 hrs 50 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      13 hrs 50 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 22/05/2026 17:15:34 UTC
+ Last Updated on 23/05/2026 16:08:04 UTC
 <!--END_SECTION:waka-->
