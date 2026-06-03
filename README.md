@@ -59,8 +59,8 @@
 
 ```text
 🌞 Morning                1273 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
-🌆 Daytime                7688 commits        ███████████████░░░░░░░░░░   60.90 % 
-🌃 Evening                3559 commits        ███████░░░░░░░░░░░░░░░░░░   28.19 % 
+🌆 Daytime                7698 commits        ███████████████░░░░░░░░░░   60.94 % 
+🌃 Evening                3559 commits        ███████░░░░░░░░░░░░░░░░░░   28.17 % 
 🌙 Night                  103 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 ```
 
@@ -71,20 +71,20 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               9 hrs 11 mins       █████████████████░░░░░░░░   68.28 % 
-Markdown                 1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
-JSON                     52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
-Docker                   23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
-Nginx configuration file 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+TypeScript               6 hrs 38 mins       ████████████████░░░░░░░░░   64.96 % 
+Markdown                 1 hr 28 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
+JSON                     40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
+Nginx configuration file 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+Docker                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 32 mins       ██████████████░░░░░░░░░░░   56.02 % 
-Cursor                   5 hrs 55 mins       ███████████░░░░░░░░░░░░░░   43.98 % 
+VS Code                  6 hrs 18 mins       ███████████████░░░░░░░░░░   61.68 % 
+Cursor                   3 hrs 55 mins       ██████████░░░░░░░░░░░░░░░   38.32 % 
 
 💻 Operating System: 
-Mac                      13 hrs 28 mins      █████████████████████████   100.00 % 
+Mac                      10 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 02/06/2026 18:47:04 UTC
+ Last Updated on 03/06/2026 18:52:36 UTC
 <!--END_SECTION:waka-->
