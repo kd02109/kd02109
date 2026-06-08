@@ -53,6 +53,38 @@
 <br/>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C908%20hrs%2019%20mins-blue?style=flat)
 
- Last Updated on 07/06/2026 16:24:04 UTC
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1277 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
+🌆 Daytime                7765 commits        ███████████████░░░░░░░░░░   61.03 % 
+🌃 Evening                3578 commits        ███████░░░░░░░░░░░░░░░░░░   28.12 % 
+🌙 Night                  103 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+TypeScript               1 hr 40 mins        █████████████░░░░░░░░░░░░   50.40 % 
+JSON                     28 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
+Markdown                 24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
+Nginx configuration file 18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
+Docker                   16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+
+🔥 Editors: 
+VS Code                  2 hrs 2 mins        ███████████████░░░░░░░░░░   61.29 % 
+Cursor                   1 hr 17 mins        ██████████░░░░░░░░░░░░░░░   38.71 % 
+
+💻 Operating System: 
+Mac                      3 hrs 19 mins       █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 08/06/2026 18:03:00 UTC
 <!--END_SECTION:waka-->
