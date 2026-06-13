@@ -53,15 +53,15 @@
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C913%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C913%20hrs%2052%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1283 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
-🌆 Daytime                7819 commits        ███████████████░░░░░░░░░░   61.06 % 
-🌃 Evening                3600 commits        ███████░░░░░░░░░░░░░░░░░░   28.11 % 
-🌙 Night                  103 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+🌞 Morning                1336 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
+🌆 Daytime                7993 commits        ███████████████░░░░░░░░░░   60.89 % 
+🌃 Evening                3696 commits        ███████░░░░░░░░░░░░░░░░░░   28.15 % 
+🌙 Night                  103 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
 ```
 
 
@@ -71,20 +71,20 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               3 hrs 29 mins       █████████████████░░░░░░░░   69.22 % 
-Prisma                   21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
-JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
-JavaScript               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
-Other                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+TypeScript               3 hrs 32 mins       ████████████████░░░░░░░░░   63.87 % 
+JavaScript               33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
+Prisma                   21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+JSON                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
+Other                    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 46 mins       ██████████████░░░░░░░░░░░   55.01 % 
-Cursor                   2 hrs 16 mins       ███████████░░░░░░░░░░░░░░   44.99 % 
+VS Code                  3 hrs 14 mins       ███████████████░░░░░░░░░░   58.50 % 
+Cursor                   2 hrs 18 mins       ██████████░░░░░░░░░░░░░░░   41.50 % 
 
 💻 Operating System: 
-Mac                      5 hrs 2 mins        █████████████████████████   100.00 % 
+Mac                      5 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 12/06/2026 17:43:34 UTC
+ Last Updated on 13/06/2026 16:22:40 UTC
 <!--END_SECTION:waka-->
