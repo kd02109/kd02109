@@ -71,19 +71,19 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-JavaScript               3 hrs 43 mins       ██████████░░░░░░░░░░░░░░░   38.98 % 
-TypeScript               2 hrs 53 mins       ████████░░░░░░░░░░░░░░░░░   30.25 % 
-JSON                     1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
-Markdown                 46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
-Other                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+JavaScript               1 hr 54 mins        ███████████░░░░░░░░░░░░░░   42.52 % 
+TypeScript               1 hr 2 mins         ██████░░░░░░░░░░░░░░░░░░░   23.21 % 
+Markdown                 42 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
+TOML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
 
 🔥 Editors: 
-Cursor                   9 hrs 32 mins       █████████████████████████   100.00 % 
+Cursor                   4 hrs 29 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      9 hrs 32 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 29 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 07/07/2026 17:26:12 UTC
+ Last Updated on 08/07/2026 16:47:29 UTC
 <!--END_SECTION:waka-->
