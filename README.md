@@ -53,6 +53,63 @@
 <br/>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C950%20hrs%2026%20mins-blue?style=flat)
 
- Last Updated on 28/07/2026 16:47:43 UTC
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-141%20hrs%2048%20mins-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1417 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
+🌆 Daytime                8221 commits        ███████████████░░░░░░░░░░   60.69 % 
+🌃 Evening                3806 commits        ███████░░░░░░░░░░░░░░░░░░   28.09 % 
+🌙 Night                  103 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+Markdown                 10 hrs 15 mins      ██████████░░░░░░░░░░░░░░░   41.39 % 
+TypeScript               6 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   25.63 % 
+JSON                     4 hrs               ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
+Other                    1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
+JavaScript               47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+
+🔥 Editors: 
+Cursor                   24 hrs 41 mins      █████████████████████████   99.63 % 
+Codex CLI                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+Exec Wakatime            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+
+💻 Operating System: 
+Mac                      24 hrs 46 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 22 hrs 41 mins (91.57%)
+
+✍️ 38,860 lines written by AI, 1,103 lines written by hand (97.24% AI-written)
+
+🔤 4,711,384,776 Input Tokens, 6,923,573 Output Tokens
+
+💵 $23727.35 Estimated AI Cost This Week
+
+🧠 64 AI Sessions, 209 AI Prompts
+
+GPT                      39,074 lines        █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 97.24% of written lines came from AI
+📚 Verbose Prompter — average 4,893 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 3.53% of changed lines were hand-edited
+```
+
+
+ Last Updated on 29/07/2026 16:30:45 UTC
 <!--END_SECTION:waka-->
