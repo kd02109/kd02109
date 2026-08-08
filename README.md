@@ -53,6 +53,61 @@
 <br/>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C982%20hrs%2011%20mins-blue?style=flat)
 
- Last Updated on 07/08/2026 16:04:00 UTC
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-171%20hrs%2051%20mins-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1549 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
+🌆 Daytime                8957 commits        ███████████████░░░░░░░░░░   61.14 % 
+🌃 Evening                4036 commits        ███████░░░░░░░░░░░░░░░░░░   27.55 % 
+🌙 Night                  107 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+Markdown                 19 hrs 18 mins      ████████████████░░░░░░░░░   64.17 % 
+JSON                     6 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   22.39 % 
+TypeScript               3 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Other                    38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+HTML                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+
+🔥 Editors: 
+Cursor                   30 hrs 4 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      30 hrs 4 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 29 hrs 47 mins (99.05%)
+
+✍️ 28,099 lines written by AI, 220 lines written by hand (99.22% AI-written)
+
+🔤 7,369,581,951 Input Tokens, 10,046,603 Output Tokens
+
+💵 $4743.16 Estimated AI Cost This Week
+
+🧠 109 AI Sessions, 66 AI Prompts
+
+GPT                      27,553 lines        █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.22% of written lines came from AI
+📚 Verbose Prompter — average 3,402 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 1.01% of changed lines were hand-edited
+```
+
+
+ Last Updated on 08/08/2026 15:39:08 UTC
 <!--END_SECTION:waka-->
