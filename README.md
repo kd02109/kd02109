@@ -73,41 +73,21 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 7 hrs 50 mins       ██████████████████████░░░   87.95 % 
-JSON                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
-HTML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Other                    0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Cursor                   8 hrs 54 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      8 hrs 54 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 54 mins (100.0%)
-
-✍️ 2,351 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 2,514,034,274 Input Tokens, 2,998,150 Output Tokens
-
-💵 $837.34 Estimated AI Cost This Week
-
-🧠 7 AI Sessions, 4 AI Prompts
-
-GPT                      1,618 lines         █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 20 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 10/08/2026 16:07:58 UTC
+ Last Updated on 11/08/2026 16:08:08 UTC
 <!--END_SECTION:waka-->
