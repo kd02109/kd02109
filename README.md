@@ -53,9 +53,9 @@
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C982%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C986%20hrs%2032%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-171%20hrs%2051%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-176%20hrs%2011%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -73,21 +73,44 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Other                    0 secs              █████████████████████████   100.00 % 
+Markdown                 2 hrs 44 mins       ████████████████░░░░░░░░░   62.79 % 
+TypeScript               1 hr 11 mins        ███████░░░░░░░░░░░░░░░░░░   27.41 % 
+JSON                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+HTML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+Checksums                5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Codex Vscode             2 hrs 13 mins       █████████████░░░░░░░░░░░░   51.21 % 
+Cursor                   1 hr 38 mins        █████████░░░░░░░░░░░░░░░░   37.54 % 
+Agent                    29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      4 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 4 hrs 19 mins (99.42%)
+
+✍️ 4,938 lines written by AI, 15 lines written by hand (99.7% AI-written)
+
+🔤 3,754,459 Input Tokens, 386,586 Output Tokens
+
+💵 $74.98 Estimated AI Cost This Week
+
+🧠 31 AI Sessions, 74 AI Prompts
+
+GPT                      5,013 lines         █████████████████████████   100.00 % 
+Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.7% of written lines came from AI
+📚 Verbose Prompter — average 10,719 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.46% of changed lines were hand-edited
 ```
 
 
- Last Updated on 15/08/2026 15:29:41 UTC
+ Last Updated on 16/08/2026 15:29:41 UTC
 <!--END_SECTION:waka-->
